@@ -6,3 +6,5 @@ Analysis of motor vehicle accidents in New York City between 2017 and 2022
 ### Tools
 * Python: pandas, numpy, matplotlib, seaborn, folium, sklearn, statsmodels
 * Tableau
+### Results
+The findings are presented [here](https://public.tableau.com/app/profile/fiyin4479/viz/collisions_16770278323930/Story1?publish=yes)
